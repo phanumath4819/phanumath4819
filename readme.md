@@ -1,6 +1,6 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: Phanumat Hatsuisai
+- 😄 My name is: Phanumat Hatsuisai.
 - ⚡ Student id: 63364819
 - 🔭 I'm currently studying on Faculty of Engineering.
 - 🖥 Career interest in the future : Programmer.
