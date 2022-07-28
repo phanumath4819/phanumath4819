@@ -3,7 +3,7 @@
 - 😄 My name is: Phanumat Hatsuisai
 - ⚡ Student id: 63364819
 - 🔭 I'm currently studying on Faculty of Engineering.
-- 🖥 Career interest in the future : Programmer
+- 🖥 Career interest in the future : Programmer.
 - 👩🏾‍💻 Ability to program in different languages : Python, C 
 - 📓 Special aptitude, interest in computer engineering : Programming, Computer Network.
 
