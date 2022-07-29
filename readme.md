@@ -1,11 +1,27 @@
-### Hi there 👋 Nice to see u.
+## Hello World 🚀
+[![image](https://i.pinimg.com/originals/f1/7f/39/f17f393a6c0cc2a3045223ee8e295d59.jpg)](#)
 
-- 😄 My name is: Phanumat Hatsuisai.
-- ⚡ Student id: 63364819
-- 🔭 I'm currently studying on Faculty of Engineering.
-- 🖥 Career interest in the future : Programmer.
-- 👩🏾‍💻 Ability to program in different languages : Python, C 
-- 📓 Special aptitude, interest in computer engineering : Programming, Computer Network.
+### About Me 👩‍💻
+- My name is : Phanumat Hatsuisai.
+- Student ID : 63364819
+- I'm currently studying on Faculty of Engineering.
+- Career interest in the future 
+    - Programmer
+- Ability to program in different languages 
+    - Python
+    - C 
+    - HTML
+- Special aptitude, interest in computer engineering
+    - Programming
+    - Computer Network.
+
+### My Social 📱 
+  - [Facebook](https://www.facebook.com/profile.php?id=100008939289274) 
+  - [Intragram](https://www.instagram.com/tamunahp_/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Developer Tech
 
