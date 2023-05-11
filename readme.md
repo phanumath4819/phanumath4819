@@ -13,6 +13,6 @@
     - Programming
     - Computer Network.
 
-### My Social 📱 
+### My Social 
   - [Facebook](https://www.facebook.com/profile.php?id=100008939289274) 
   - [Intragram](https://www.instagram.com/tamunahp_/)
