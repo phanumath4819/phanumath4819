@@ -1,8 +1,4 @@
-## Hello World 🚀
-<img src="https://i.pinimg.com/originals/f1/7f/39/f17f393a6c0cc2a3045223ee8e295d59.jpg" alt="My image">
-
-
-### About Me 👩‍💻
+### About Me
 - My name is : Phanumat Hatsuisai.
 - Student ID : 63364819
 - I'm currently studying on Faculty of Engineering.
