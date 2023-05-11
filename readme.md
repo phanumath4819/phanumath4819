@@ -1,5 +1,6 @@
 ## Hello World 🚀
-[![image]([https://i.pinimg.com/originals/f1/7f/39/f17f393a6c0cc2a3045223ee8e295d59.jpg](https://sv1.picz.in.th/images/2023/05/11/ymDR2V.th.png))](#)
+<img src="https://i.pinimg.com/originals/f1/7f/39/f17f393a6c0cc2a3045223ee8e295d59.jpg" alt="My image">
+
 
 ### About Me 👩‍💻
 - My name is : Phanumat Hatsuisai.
